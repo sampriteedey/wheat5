@@ -14,4 +14,4 @@ six
 wrapt
 opt-einsum
 typing_extensions
-
+TensorRT
